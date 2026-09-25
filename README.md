@@ -1,7 +1,6 @@
 # Tuneez
 
-> AI-powered music recommendations for your Instagram Stories and Reels.
->> AI Written Stuff below
+> AI Written Stuff below
 **Status: Shelved / Archived**
 
 Tuneez was an experiment exploring whether an AI could understand an image's visual and social context and recommend songs that genuinely fit the post.
